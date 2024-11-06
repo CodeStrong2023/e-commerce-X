@@ -10,6 +10,14 @@ Este proyecto está diseñado para ofrecer una experiencia de compra, con funcio
 - Autenticación de usuarios: Registro y login de usuarios para poder gestionar compras.
 
 ### Tecnologias Usadas 
+![JavaScript](https://img.shields.io/badge/-JavaScript_-yellow)
+![Java](https://img.shields.io/badge/-Java_-red)
+![Python](https://img.shields.io/badge/-Python_-green)
+![PHP](https://img.shields.io/badge/-PHP_-purple)
+![CSS](https://img.shields.io/badge/-CSS_-blue)
+![HTML](https://img.shields.io/badge/-HTML_-orange)
+
+
 
 ### Integrantes del Proyecto
 - Lede Santino
