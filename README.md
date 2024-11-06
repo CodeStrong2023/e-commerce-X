@@ -1,5 +1,5 @@
 # ECOMMERSE XSNEAKERS
-Bienvenido a XSneakers, una tienda de ecommerce donde los usuarios pueden explorar y comprar una variedad de zapatillas deportivas, urbanas, y skate.
+Somos el grupo X y les damos la bienvenida a XSneakers, una tienda de ecommerce donde los usuarios pueden explorar y comprar una variedad de zapatillas deportivas, urbanas, y skate.
 Este proyecto está diseñado para ofrecer una experiencia de compra, con funcionalidades como filtro de productos, carrito de compras, entre otros.
 
 ### Funcionalidades
